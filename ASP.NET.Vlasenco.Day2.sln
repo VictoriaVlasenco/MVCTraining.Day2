@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Task3", "ClassLibrary.Task3\ClassLibrary.Task3.csproj", "{999B0662-4123-4F10-AF25-9A72D2360447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{4FFC8E92-8294-4D4D-BF5D-34170DFBD3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Task2", "ClassLibrary.Task2\ClassLibrary.Task2.csproj", "{6CF5B1AD-C303-40EA-8143-BD9BBADB334F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestEuclidMethod", "UnitTestEuclidMethod\UnitTestEuclidMethod.csproj", "{52D7E8E2-64C2-44B8-A0E3-193AE74CE05E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSteinMethod", "UnitTestSteinMethod\UnitTestSteinMethod.csproj", "{5B677238-2AD0-4BD9-8506-A4BBD6BBBC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTask2", "UnitTestTask2\UnitTestTask2.csproj", "{CC6BB562-5C9E-47AF-B7B6-FC57BFC46853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999B0662-4123-4F10-AF25-9A72D2360447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999B0662-4123-4F10-AF25-9A72D2360447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999B0662-4123-4F10-AF25-9A72D2360447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999B0662-4123-4F10-AF25-9A72D2360447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFC8E92-8294-4D4D-BF5D-34170DFBD3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFC8E92-8294-4D4D-BF5D-34170DFBD3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFC8E92-8294-4D4D-BF5D-34170DFBD3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFC8E92-8294-4D4D-BF5D-34170DFBD3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF5B1AD-C303-40EA-8143-BD9BBADB334F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF5B1AD-C303-40EA-8143-BD9BBADB334F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF5B1AD-C303-40EA-8143-BD9BBADB334F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF5B1AD-C303-40EA-8143-BD9BBADB334F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D7E8E2-64C2-44B8-A0E3-193AE74CE05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D7E8E2-64C2-44B8-A0E3-193AE74CE05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D7E8E2-64C2-44B8-A0E3-193AE74CE05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D7E8E2-64C2-44B8-A0E3-193AE74CE05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B677238-2AD0-4BD9-8506-A4BBD6BBBC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B677238-2AD0-4BD9-8506-A4BBD6BBBC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B677238-2AD0-4BD9-8506-A4BBD6BBBC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B677238-2AD0-4BD9-8506-A4BBD6BBBC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6BB562-5C9E-47AF-B7B6-FC57BFC46853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6BB562-5C9E-47AF-B7B6-FC57BFC46853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6BB562-5C9E-47AF-B7B6-FC57BFC46853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6BB562-5C9E-47AF-B7B6-FC57BFC46853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
