@@ -26,5 +26,19 @@ namespace UnitTestEuclidMethod
             int gcd = Euclid.GetGcd(1071, 462, 21, 7);
             Assert.AreEqual(7, gcd);
         }
+
+        [TestMethod]
+        public void EuclidGCD_Minus21_Minus7Expected_Minus7()
+        {
+            int gcd = Euclid.GetGcd(-21, -7);
+            Assert.AreEqual(-7, gcd);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void EuclidGCD_1071ExpectedException()
+        {
+            int gcd = Euclid.GetGcd(1071);
+        }
     }
 }
